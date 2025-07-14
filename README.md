@@ -73,13 +73,13 @@ AUC-ROC Curve
 ## Models Predictions on unseeen Data screenshot 
 <img width="563" height="522" alt="image" src="https://github.com/user-attachments/assets/3fc27338-ea4c-4b47-8bce-8feca505117f" />
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 Supervisor: Prof Mohit Gurg , Dublin Business School
 Open Source Dataset : HAR Dataset from Kaggle 
 Frameworks: computer vision, python - Tenserflow, Keras 
 Community Support: AI/ML forums, Roboflow, Medium
 My friends and family for continious support
-📜 License
+## 📜 License
 This project is for academic research purposes. Attribution required for reuse
 
 
