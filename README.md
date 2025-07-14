@@ -25,6 +25,23 @@ This project compares the performance of four deep learning models—Vanilla CNN
  ┣ 📜README.md
  ┣ 📜requirements.txt
 ```
+## 📂 Dataset
+Source: Kaggle HAR Dataset
+Link: https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset
+
+Size: 12,000+ RGB images across 15 action categories
+
+Preprocessing: Image resizing, normalization, label encoding, and augmentation
+
+## 🧠 Models Implemented
+Vanilla CNN (custom baseline)
+
+MobileNetV2 (transfer learning)
+
+ResNet50 (transfer learning with residual blocks)
+
+Vision Transformer (ViT) (transformer-based model from Hugging Face)
+
 ## 🧪 Results
 
 | Model           | Accuracy | F1-Score | AUC-ROC |
@@ -47,3 +64,7 @@ cd Human_Action_Recognition_DL
 pip install -r requirements.txt
 jupyter notebook
 ```
+## 📸 Visual Results
+Top results achived model vision Transformers (VIT) Confusion Matrix and AUC- ROC curve snippets 
+<img width="689" height="447" alt="image" src="https://github.com/user-attachments/assets/16a29374-3d68-4ba6-96fb-332817acea00" />
+
